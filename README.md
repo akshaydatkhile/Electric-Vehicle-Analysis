@@ -16,3 +16,6 @@ This analysis can help identify EV growth patterns, highlight leading regions, a
 📊 Tools Used: Power BI, DAX, Data Visualization
 
  💡 Key Skills: Data modeling, measures, dashboard design, analytics storytelling
+
+     Screenshot/demos of dashboard:
+     Preview of dashboard: (https://github.com/akshaydatkhile/Electric-Vehicle-Analysis/blob/main/Electric%20Vehicle%20Analysis.png)
